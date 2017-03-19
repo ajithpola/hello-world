@@ -1,4 +1,4 @@
 # hello-world
 my new repository
-intrested in coding
-want to know more tech updates
+(intrested in coding,
+intrested in tech updates)
